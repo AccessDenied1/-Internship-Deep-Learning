@@ -1,7 +1,7 @@
 # Deep-Learning-project
 This Repo contains the details about my internship project done in summer of 2019.
 ## About Industry
-Cadla Services Private Limited is a stealth mode AI startup helping micro retailers compete in the digital economy using big data and AI. CADLA stands for Consumer Analytics with Deep Learning Algorithms.
+***Cadla Services Private Limited*** is a stealth mode AI startup helping micro retailers compete in the digital economy using big data and AI. CADLA stands for Consumer Analytics with Deep Learning Algorithms.
 ### - Brands
   - *Cadla helps brands take advantage of AI and cognitive neuroscience to decode complex consumer behavior and help them develop targeted messaging to improve conversions.*
 ### - Retailers 
@@ -20,3 +20,4 @@ Headquarters : Singapore, Singapore
 Type : Privately Held
 
 Founded : 2018
+## Disclaimer and Notices : Resources in this repository can be used only for academic purpose. It's commercial use is strictly prohibited. 

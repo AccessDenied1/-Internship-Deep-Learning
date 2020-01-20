@@ -1,4 +1,4 @@
-# Deep-Learning-project
+# [Internship] Deep-Learning
 This Repo contains the details about my internship project done in summer of 2019.
 
 [Click here](https://bit.ly/2Mz0cGi) to see Certificate
